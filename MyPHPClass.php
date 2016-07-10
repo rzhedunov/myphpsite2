@@ -8,5 +8,12 @@
  */
 class MyPHPClass
 {
+    var $name;
+    var $addr;
+
+// методы:
+    function Name() {
+        echo "<h3>John</h3>";
+    }
 
 }
